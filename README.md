@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Frontend Web developer from India</h3>
-<img align="right" width=400 alt="coding" src="https://drive.google.com/drive/u/0/folders/1VHuD9CDQGkNrcwxWlsQMD2ywGLaxmI0h"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsingh02&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsingh02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh02" alt="harshitsingh02" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh02" alt="harshitsingh02" /></a> </p> -->
+<img align="right" width=400 alt="coding" src="git-pic.gif"/>
+
 
 - 🌱 I’m currently learning **MERN Stack.**
 
