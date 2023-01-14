@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Frontend Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsingh02&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsingh02" /> </p>
-[![Linkedin Badge](https://img.shields.io/badge/-AnshikaGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshika-gupta-36711419b/)](https://www.linkedin.com/in/harshit-singh-665273178/) [![Instagram Badge](https://img.shields.io/badge/-@AnshikaGupta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/anshikagupta4324/)](https://www.instagram.com/harshit20._.03/)
-[Uploading 68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40416e7368696b6147757074612d4437303038413f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d443730303841266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2…]()
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh02" alt="harshitsingh02" /></a> </p> -->
