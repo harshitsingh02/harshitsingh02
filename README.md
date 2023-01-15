@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/harshitsingh02?tab=repositories/)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/harshitsingh02?tab=repositories)
 
 - 📝 I regularly write articles on [Full Stack Web Development.](Full Stack Web Development.)
 
