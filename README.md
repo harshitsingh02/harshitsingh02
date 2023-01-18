@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/harshitsingh02?tab=repositories)
 
-- 📝 I regularly write articles on [Full Stack Web Development.]([Full Stack Web Development.](https://medium.com/@harshit143singh))
+- 📝 I regularly write articles on ([Web Development.](https://medium.com/@harshit143singh))
 
 - 💬 Ask me about **HTML5, CSS3, JS, etc.**
 
