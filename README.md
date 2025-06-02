@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">A passionate Frontend Web developer from India</h3>
+<h3 align="center">A passionate Cloud enthusiast and software engineer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsingh02&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsingh02" /> </p> -->
 
@@ -8,15 +8,13 @@
 
 <img align="right" width=400 alt="coding" src="git-pic.gif"/>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/harshitsingh02?tab=repositories)
 
-- 📝 I regularly write articles on ([Web Development.](https://medium.com/@harshit143singh))
+- 💬 Ask me about **Cloud, HTML5, CSS3, JS, etc.**
 
-- 💬 Ask me about **HTML5, CSS3, JS, etc.**
-
-- 📫 How to reach me **harshit143singh@gmail.com**
+- 📫 How to reach me **singh143harshit@gmail.com**
 
 - ⚡ Fun fact **I like Web.**
 
