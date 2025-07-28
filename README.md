@@ -8,7 +8,7 @@
 
 <img align="right" width=400 alt="coding" src="git-pic.gif"/>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **GenAI and Cloud Fundamentals**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/harshitsingh02?tab=repositories)
 
